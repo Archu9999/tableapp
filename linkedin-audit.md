@@ -122,3 +122,24 @@ The first 40 or so characters show in search results, so the role names and "Gen
 ---
 
 Sources: [Microsoft-ecosystem AI Engineer (Azure AI Foundry, LangGraph)](https://leadecservices.keka.com/careers/jobdetails/61139) · [AI Engineer, RAG/agents/evaluation](https://insightglobal.com/jobs/find_a_job/job-482902) · [Ford AI Engineer](https://www.careers.ford.com/job/naucalpan-de-juarez/ai-engineer/48560/99235336688) · [Ford Generative AI Engineer](https://www.wearedevelopers.com/jobs/ext/6206953/generative-ai-engineer) · [R1 RCM AI Engineer II](https://builtincharlotte.com/job/us-ai-engineer-ii-r37/9044282) · [Cleveland Clinic AI](https://talentcommunity.clevelandclinic.org/job/21700942/cleveland-clinic-ai-cleveland-oh) · [Cleveland Clinic AI Software Engineer](https://www.ihiretechnology.com/jobs/view/523768709)
+
+---
+
+## 5. Certifications (added Oct 2026)
+
+**What you have (all free course badges, Oct 2026):**
+- Databricks: Generative AI Fundamentals
+- Microsoft Learn: Integrate MCP Tools with Azure AI Agents (training module)
+- Anthropic Claude Academy: Building with the Claude API
+- Anthropic Claude Academy: Introduction to Model Context Protocol
+- Hugging Face Agents Course: Unit 1, Foundations of Agents
+
+**Gap:** these show you're keeping up with agents and MCP, but none is a proctored certification. Recruiters weigh one proctored cert more than many course badges.
+
+**What to add, in order:**
+1. **Microsoft Certified: Azure AI Engineer Associate**: closest match to your Azure OpenAI work and to Microsoft-stack roles. Check the current exam code on Microsoft Learn before booking.
+2. **Databricks Certified Generative AI Engineer Associate**: the proctored step up from the Fundamentals badge you already have.
+3. **Finish the full Hugging Face Agents Course**: the full certificate replaces the Unit 1 one.
+4. Optional, only if targeting GCP-heavy teams like Ford: Google Cloud Professional Machine Learning Engineer.
+
+Don't list the Hugging Face or Microsoft Learn items as "certified". Use their exact names.
